@@ -1,0 +1,7 @@
+Account,Description,Account_type
+1000,Cash,Asset
+1100,Account Receivable,Asset
+2000,Account Payable,Liability
+3000,Capital,Equity 
+4000,Revenue,Income
+5000,Expense,Expense
